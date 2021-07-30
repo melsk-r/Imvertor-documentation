@@ -1,10 +1,10 @@
 # 7. Tagged Values
 
-[**7.1. Tagged values voor de SIM (Semantische Informatie Modellen)**](https://github.com/melsk-r/Imvertor-documentation/blob/main/docs/de-nieuwe-werkwijze.md#41-modellenbeheer)
+[**7.1. Tagged values voor de SIM (Semantische Informatie Modellen)**](#71-tagged-values-voor-de-sim-semantische-informatie-modellen)
 
-[**7.3. Tagged values voor de BSM (Bericht Structuur Modellen)**](https://github.com/melsk-r/Imvertor-documentation/blob/main/docs/de-nieuwe-werkwijze.md#42-het-opstellen-van-een-horizontaal-semantisch-informatiemodel)
+[**7.3. Tagged values voor de BSM (Bericht Structuur Modellen)**](https://github.com/melsk-r/Imvertor-documentation/blob/main/docs/tagged-values.md#72-tagged-values-voor-de-ugm-uitwisselingsgegevensmodel)
 
-[**7.3. Tagged values voor de BSM (Bericht Structuur Modellen)**](https://github.com/melsk-r/Imvertor-documentation/blob/main/docs/de-nieuwe-werkwijze.md#43-het-opstellen-van-een-horizontaal-gegevensuitwisselingsmodel)
+[**7.3. Tagged values voor de BSM (Bericht Structuur Modellen)**](https://github.com/melsk-r/Imvertor-documentation/blob/main/docs/tagged-values.md#73-tagged-values-voor-de-bsm-bericht-structuur-modellen)
 
 M.b.v. tagged values (TV's) kan aan constructies in UML extra semantiek meegegeven worden. De aanwezigheid van TV's kan m.b.v. metamodellen gefaciliteerd of m.b.v. 
 Imvertor afgedwongen worden. In de volgende tabel staan TV's die noch gefaciliteerd noch afgedwongen worden. Daarnaast hebben ze ook geen functie voor |mvertor. Het is echter de afspraak dat we onze modellen er van voorzien ter documentatie.
