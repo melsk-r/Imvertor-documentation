@@ -8,6 +8,10 @@ Bij het verwerken van de vervaardigde modellen met Imvertor kunnen er foutmeldin
 foutmeldingen en waarschuwingen. Een lijst met de meeste mogelijke foutmeldingen kan  "hier":https://imvertor.armatiek.nl/imvertor-executor/dashboard/wikis/msg gevonden 
 worden. Ook in hoofdstuk  8 Veel voorkomende fouten  vind je een aantal veel voorkomende fouten en een uitleg hoe daarmee om te gaan.
 
+[**4.1. Modellenbeheer**](https://github.com/melsk-r/Imvertor-documentation/blob/main/docs/de-nieuwe-werkwijze.md#41-modellenbeheer)
+[**4.2. Het opstellen van een horizontaal Semantisch InformatieModel**](https://github.com/melsk-r/Imvertor-documentation/blob/main/docs/de-nieuwe-werkwijze.md#42-het-opstellen-van-een-horizontaal-semantisch-informatiemodel)
+[**4.3. Het opstellen van een horizontaal GegevensUitwisselingsModel**](https://github.com/melsk-r/Imvertor-documentation/blob/main/docs/de-nieuwe-werkwijze.md#43-het-opstellen-van-een-horizontaal-gegevensuitwisselingsmodel)
+[**4.4. Het opstellen van een koppelvlak**](https://github.com/melsk-r/Imvertor-documentation/blob/main/docs/de-nieuwe-werkwijze.md#44-het-opstellen-van-een-koppelvlak)
 
 ## 4.1. Modellenbeheer
 
@@ -842,3 +846,9 @@ Leg een
 - Voeg de Entiteitrelatie toe* 
 
 ##### Complexere berichten
+
+[PackageControlOptions]: https://kinggemeenten.plan.io/attachments/download/161704
+[Domein-specifiek-SIM]: https://kinggemeenten.plan.io/attachments/download/159542/Dom-spec%20SIM.JPG
+[Domein-specifiek-UGM]: https://kinggemeenten.plan.io/attachments/download/159479/Dom-spec%20UMG.JPG
+[Dom-spec-SIM]" https://kinggemeenten.plan.io/attachments/download/159542/Dom-spec%20SIM.JPG
+[Dom-spec-UGM]: https://kinggemeenten.plan.io/attachments/download/159479/Dom-spec%20UMG.JPG
