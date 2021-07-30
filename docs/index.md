@@ -11,16 +11,12 @@ Begrippen die gehanteerd worden binnen de nieuwe aanpak.
 ## [3. Het drie-lagen model](het-3-lagen-model.md)
 Uitleg van de samenhang tussen SIM, UGM en BSM.
 
-## [4. De nieuwe werkwijze]()
+## [4. De nieuwe werkwijze](https://github.com/melsk-r/Imvertor-documentation/blob/main/docs/de-nieuwe-werkwijze.md#4-de-nieuwe-werkwijze)
 Procesbeschrijving voor het maken van horizontale SIM's en UGM's en de koppelvlak SIM's, UGM's en BSM's.
-### [4.1. Het gebruik van SVN ]()
-### [4.2. Het opstellen van een horizontaal Semantisch InformatieModel]()
-### [4.3. Het opstellen van een horizontaal GegevensUitwisselingsModel]()
-### [4.4. Technische en implementatie-overwegingen]()
-### [4.5. Het opstellen van een koppelvlak]()
-### [4.6. Opstellen van een Koppelvlak-informatiemodel]()
-### [4.7. opstellen van een koppelvlak-UitwisselingsGegevensModel]()
-### [4.8. opstellen van een koppelvlak-BerichtStructuurModel]()
+### [4.1. Modellenbeheer](https://github.com/melsk-r/Imvertor-documentation/blob/main/docs/de-nieuwe-werkwijze.md#41-modellenbeheer)
+### [4.2. Het opstellen van een horizontaal Semantisch InformatieModel](https://github.com/melsk-r/Imvertor-documentation/blob/main/docs/de-nieuwe-werkwijze.md#42-het-opstellen-van-een-horizontaal-semantisch-informatiemodel)
+### [4.3. Het opstellen van een horizontaal GegevensUitwisselingsModel](https://github.com/melsk-r/Imvertor-documentation/blob/main/docs/de-nieuwe-werkwijze.md#43-het-opstellen-van-een-horizontaal-gegevensuitwisselingsmodel)
+### [4.4. Het opstellen van een koppelvlak](https://github.com/melsk-r/Imvertor-documentation/blob/main/docs/de-nieuwe-werkwijze.md#44-het-opstellen-van-een-koppelvlak)
 
 ## [5. Handreikingen]()
 Handreikingen van diverse pluimage.
