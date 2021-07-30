@@ -9,8 +9,11 @@ foutmeldingen en waarschuwingen. Een lijst met de meeste mogelijke foutmeldingen
 worden. Ook in hoofdstuk  8 Veel voorkomende fouten  vind je een aantal veel voorkomende fouten en een uitleg hoe daarmee om te gaan.
 
 [**4.1. Modellenbeheer**](https://github.com/melsk-r/Imvertor-documentation/blob/main/docs/de-nieuwe-werkwijze.md#41-modellenbeheer)
+
 [**4.2. Het opstellen van een horizontaal Semantisch InformatieModel**](https://github.com/melsk-r/Imvertor-documentation/blob/main/docs/de-nieuwe-werkwijze.md#42-het-opstellen-van-een-horizontaal-semantisch-informatiemodel)
+
 [**4.3. Het opstellen van een horizontaal GegevensUitwisselingsModel**](https://github.com/melsk-r/Imvertor-documentation/blob/main/docs/de-nieuwe-werkwijze.md#43-het-opstellen-van-een-horizontaal-gegevensuitwisselingsmodel)
+
 [**4.4. Het opstellen van een koppelvlak**](https://github.com/melsk-r/Imvertor-documentation/blob/main/docs/de-nieuwe-werkwijze.md#44-het-opstellen-van-een-koppelvlak)
 
 ## 4.1. Modellenbeheer
