@@ -15,6 +15,8 @@ Imvertor afgedwongen worden. In de volgende tabel staan TV's die noch gefacilite
 
 ## 7.1. Tagged values voor de SIM (Semantische Informatie Modellen)
 
+[**Terug naar top**](#7-tagged-values)
+
 | Tagged value naam | Waar | Verplicht (in) | Beschrijving | Mogelijke waarden _(in vet de defaultwaarde)_ | Afleiding mogelijk |
 | --- | --- | --- | --- | --- | --- |
 | 'Aanduiding strijdigheid/nietigheid' | Attribuutsoort, Gegevensgroeptype, Relatiesoort | Ja | De aanduiding of te bevragen is dat de attribuutwaarde strijdig met de openbare orde dan wel nietig is. | | Ja |
@@ -57,6 +59,8 @@ Imvertor afgedwongen worden. In de volgende tabel staan TV's die noch gefacilite
 | 'Web locatie' | Basismodel Basismodel, Toepassing, Extern, View, Domein | Nee | **Wie kan hier een definitie van geven ?** | | Ja |
 
 ## 7.2. Tagged values voor de UGM (UitwisselingsGegevensModel)
+
+[**Terug naar top**](#7-tagged-values)
 
 | Tagged value naam | Waar | Verplicht (in) | Beschrijving | Mogelijke waarden _(in vet de defaultwaarde)_ | Afleiding mogelijk |
 | --- | --- | --- | --- | --- | --- |
@@ -104,6 +108,8 @@ Imvertor afgedwongen worden. In de volgende tabel staan TV's die noch gefacilite
 | 'Web locatie' | Basismodel, Toepassing, Extern, View, Domein | Nee | **Wie kan hier een definitie van geven ?** | | Ja |
 
 ## 7.3. Tagged values voor de BSM (Bericht Structuur Modellen)
+
+[**Terug naar top**](#7-tagged-values)
 
 | Tagged value naam | Waar | Verplicht (in) | Beschrijving | Mogelijke waarden _(in vet de defaultwaarde)_ | Afleiding mogelijk |
 | --- | --- | --- | --- | --- | --- |
