@@ -5,7 +5,7 @@ Het is de bedoeling dat we deze Wiki als projectteam zo goed en compleet mogelij
 ## [1. Installatie](installatie.md)
 Toelichting op het installeren en configureren van Enterprise Architect zoals het inlezen van profielen en beschikbaarstellen van scripts.
 
-## [2. Begrippen]()
+## [2. Begrippen](begrippen.md)
 Begrippen die gehanteerd worden binnen de nieuwe aanpak.
 
 ## [3. Het drie-lagen model]()
