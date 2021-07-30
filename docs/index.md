@@ -18,14 +18,14 @@ Procesbeschrijving voor het maken van horizontale SIM's en UGM's en de koppelvla
 ### [4.3. Het opstellen van een horizontaal GegevensUitwisselingsModel](https://github.com/melsk-r/Imvertor-documentation/blob/main/docs/de-nieuwe-werkwijze.md#43-het-opstellen-van-een-horizontaal-gegevensuitwisselingsmodel)
 ### [4.4. Het opstellen van een koppelvlak](https://github.com/melsk-r/Imvertor-documentation/blob/main/docs/de-nieuwe-werkwijze.md#44-het-opstellen-van-een-koppelvlak)
 
-## [5. Handreikingen]()
+## [5. Handreikingen](https://github.com/melsk-r/Imvertor-documentation/blob/main/docs/handreikingen.md#5-handreikingen)
 Handreikingen van diverse pluimage.
 ### [5.1. Werkinstructies]()
 ### [5.2. Technieken en handigheidjes]()
 ### [5.3. Naamgevingsconventies]()
 
-## [6. Wetenswaardigheden en specials]()
+## [6. Wetenswaardigheden en specials](https://github.com/melsk-r/Imvertor-documentation/blob/main/docs/wetenswaardigheden-en-specials.md#6-wetenswaardigheden-en-specials)
 
-## [7. Tagged Values]()
+## [7. Tagged Values](https://github.com/melsk-r/Imvertor-documentation/blob/main/docs/tagged-values.md#7-tagged-values)
 
-## [8. Veel voorkomende fouten]()
+## [8. Veel voorkomende fouten](https://github.com/melsk-r/Imvertor-documentation/blob/main/docs/veel-voorkomende-fouten.md#8-veel-voorkomende-fouten)
