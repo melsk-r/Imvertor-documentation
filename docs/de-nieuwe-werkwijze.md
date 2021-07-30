@@ -8,17 +8,17 @@ Bij het verwerken van de vervaardigde modellen met Imvertor kunnen er foutmeldin
 foutmeldingen en waarschuwingen. Een lijst met de meeste mogelijke foutmeldingen kan  "hier":https://imvertor.armatiek.nl/imvertor-executor/dashboard/wikis/msg gevonden 
 worden. Ook in hoofdstuk  8 Veel voorkomende fouten  vind je een aantal veel voorkomende fouten en een uitleg hoe daarmee om te gaan.
 
-[**4.1. Modellenbeheer**](https://github.com/melsk-r/Imvertor-documentation/blob/main/docs/de-nieuwe-werkwijze.md#41-modellenbeheer)
+[**4.1. Modellenbeheer**](#41-modellenbeheer)
 
-[**4.2. Het opstellen van een horizontaal Semantisch InformatieModel**](https://github.com/melsk-r/Imvertor-documentation/blob/main/docs/de-nieuwe-werkwijze.md#42-het-opstellen-van-een-horizontaal-semantisch-informatiemodel)
+[**4.2. Het opstellen van een horizontaal Semantisch InformatieModel**](#42-het-opstellen-van-een-horizontaal-semantisch-informatiemodel)
 
-[**4.3. Het opstellen van een horizontaal GegevensUitwisselingsModel**](https://github.com/melsk-r/Imvertor-documentation/blob/main/docs/de-nieuwe-werkwijze.md#43-het-opstellen-van-een-horizontaal-gegevensuitwisselingsmodel)
+[**4.3. Het opstellen van een horizontaal GegevensUitwisselingsModel**](#43-het-opstellen-van-een-horizontaal-gegevensuitwisselingsmodel)
 
-[**4.4. Het opstellen van een koppelvlak**](https://github.com/melsk-r/Imvertor-documentation/blob/main/docs/de-nieuwe-werkwijze.md#44-het-opstellen-van-een-koppelvlak)
+[**4.4. Het opstellen van een koppelvlak**](#44-het-opstellen-van-een-koppelvlak)
 
 ## 4.1. Modellenbeheer
 
-[**Terug naar top**](https://github.com/melsk-r/Imvertor-documentation/blob/main/docs/de-nieuwe-werkwijze.md#4-de-nieuwe-werkwijze)
+[**Terug naar top**](#4-de-nieuwe-werkwijze)
 
 In dit hoofdstuk beschrijven we hoe we binnen VNG-realisatie i.h.k.v. de Nieuwe Aanpak omgaan met het beheer van onze modellen. Het aantal modellen dat we in beheer hebben 
 neemt vlug toe en aangezien de relaties tussen deze modellen een spaghetti aan afhankelijkheden oplevert is het van groot belang dat de procedure voor het gezamenlijk werken 
@@ -214,7 +214,8 @@ Hoe ga je te werk.
 
 ## 4.2. Het opstellen van een horizontaal Semantisch InformatieModel
 
-[**Terug naar top**](https://github.com/melsk-r/Imvertor-documentation/blob/main/docs/de-nieuwe-werkwijze.md#4-de-nieuwe-werkwijze)
+[**Terug naar top**](#4-de-nieuwe-werkwijze)
+
 
 > **Noot** Dit hoofdstuk moet nog verder worden ingevuld.
 
@@ -224,7 +225,8 @@ voor dat niet steeds opnieuw het wiel uitgevonden hoeft te worden en dat ze over
 
 ## 4.3. Het opstellen van een horizontaal GegevensUitwisselingsModel
 
-[**Terug naar top**](https://github.com/melsk-r/Imvertor-documentation/blob/main/docs/de-nieuwe-werkwijze.md#4-de-nieuwe-werkwijze)
+[**Terug naar top**](#4-de-nieuwe-werkwijze)
+
 
 In een horizontaal GegevensUitwisselingsmodel worden die gegevens op UGM niveau uitgewerkt die een meervoudige toepassing kennen. Als in een verticaal 
 GegevensUitwisselingsModel dan wordt verwezen naar entiteiten en attributen uit een horizontaal GegevensUitwisselingsModel zorgt dat er voor dat deze gegevens in alle 
@@ -459,7 +461,8 @@ en attribuutsoorten die in een Proxy klasse zijn toegevoegd worden in het entite
 
 ## 4.4. Het opstellen van een koppelvlak
 
-[**Terug naar top**](https://github.com/melsk-r/Imvertor-documentation/blob/main/docs/de-nieuwe-werkwijze.md#4-de-nieuwe-werkwijze)
+[**Terug naar top**](#4-de-nieuwe-werkwijze)
+
 
  In dit hoofdstuk beschrijven we hoe je tot de technische specificaties van een koppelvlak kunt komen. Althans wat betreft de StUF XML-Schema's en OAS3 specificatie. 
 Een koppelvlakspecificatie bestaat immers uit meer dan alleen een van deze componenten. Denk onder andere aan de functionele documentatie maar ook aan een 'Getting 
