@@ -1,6 +1,7 @@
 # 8 Veel voorkomende fouten
 
-|_. Laag|_. Foutomschrijving|_. Oplossing|
+| Laag | Foutomschrijving | Oplossing |
+| --- | --- | --- |
 | BSM | Validatiefout op de property "info.title"  | De tagged value "Koppelvlak-naam" op de BSM package is leeg. Hier wordt de naam van de API ingevoerd. |
 | BSM | Validatiefout op de property "info.contact.url"  | De tagged value "project_url" op de BSM package is leeg. Hier wordt de url ingevoerd van de lokatie waar de API-documentatie tie vinden is. Vaak de lokatie van de github repository |
 | BSM | In een bericht is een entiteittype leeg.  | Indien het entiteittype wordt gerepresenteerd in een complexType waarmee matchgegevens worden gedefinieerd (het heeft dan het woord 'matchgegevens' in de naam) dan kan zijn dat in het model dat entiteittype alleen attributen en relaties bevat die geen matchgegevens zijn. Speelt dit niet dan is mogelijk de situatie van toepassing die in de volgende rij wordt beschreven. |
