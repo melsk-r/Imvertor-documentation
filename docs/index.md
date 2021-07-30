@@ -11,21 +11,21 @@ Begrippen die gehanteerd worden binnen de nieuwe aanpak.
 ## [3. Het drie-lagen model](het-3-lagen-model.md)
 Uitleg van de samenhang tussen SIM, UGM en BSM.
 
-## [4. De nieuwe werkwijze](https://github.com/melsk-r/Imvertor-documentation/blob/main/docs/de-nieuwe-werkwijze.md#4-de-nieuwe-werkwijze)
+## [4. De nieuwe werkwijze](de-nieuwe-werkwijze.md)
 Procesbeschrijving voor het maken van horizontale SIM's en UGM's en de koppelvlak SIM's, UGM's en BSM's.
-### [4.1. Modellenbeheer](https://github.com/melsk-r/Imvertor-documentation/blob/main/docs/de-nieuwe-werkwijze.md#41-modellenbeheer)
-### [4.2. Het opstellen van een horizontaal Semantisch InformatieModel](https://github.com/melsk-r/Imvertor-documentation/blob/main/docs/de-nieuwe-werkwijze.md#42-het-opstellen-van-een-horizontaal-semantisch-informatiemodel)
-### [4.3. Het opstellen van een horizontaal GegevensUitwisselingsModel](https://github.com/melsk-r/Imvertor-documentation/blob/main/docs/de-nieuwe-werkwijze.md#43-het-opstellen-van-een-horizontaal-gegevensuitwisselingsmodel)
-### [4.4. Het opstellen van een koppelvlak](https://github.com/melsk-r/Imvertor-documentation/blob/main/docs/de-nieuwe-werkwijze.md#44-het-opstellen-van-een-koppelvlak)
+### [4.1. Modellenbeheer](de-nieuwe-werkwijze.md#41-modellenbeheer)
+### [4.2. Het opstellen van een horizontaal Semantisch InformatieModel](de-nieuwe-werkwijze.md#42-het-opstellen-van-een-horizontaal-semantisch-informatiemodel)
+### [4.3. Het opstellen van een horizontaal GegevensUitwisselingsModel](de-nieuwe-werkwijze.md#43-het-opstellen-van-een-horizontaal-gegevensuitwisselingsmodel)
+### [4.4. Het opstellen van een koppelvlak](de-nieuwe-werkwijze.md#44-het-opstellen-van-een-koppelvlak)
 
-## [5. Handreikingen](https://github.com/melsk-r/Imvertor-documentation/blob/main/docs/handreikingen.md#5-handreikingen)
+## [5. Handreikingen](handreikingen.md)
 Handreikingen van diverse pluimage.
 ### [5.1. Werkinstructies]()
 ### [5.2. Technieken en handigheidjes]()
 ### [5.3. Naamgevingsconventies]()
 
-## [6. Wetenswaardigheden en specials](https://github.com/melsk-r/Imvertor-documentation/blob/main/docs/wetenswaardigheden-en-specials.md#6-wetenswaardigheden-en-specials)
+## [6. Wetenswaardigheden en specials](wetenswaardigheden-en-specials.md)
 
-## [7. Tagged Values](https://github.com/melsk-r/Imvertor-documentation/blob/main/docs/tagged-values.md#7-tagged-values)
+## [7. Tagged Values](tagged-values.md)
 
-## [8. Veel voorkomende fouten](https://github.com/melsk-r/Imvertor-documentation/blob/main/docs/veel-voorkomende-fouten.md#8-veel-voorkomende-fouten)
+## [8. Veel voorkomende fouten](veel-voorkomende-fouten.md)
