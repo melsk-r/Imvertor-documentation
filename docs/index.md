@@ -8,7 +8,7 @@ Toelichting op het installeren en configureren van Enterprise Architect zoals he
 ## [2. Begrippen](begrippen.md)
 Begrippen die gehanteerd worden binnen de nieuwe aanpak.
 
-## [3. Het drie-lagen model]()
+## [3. Het drie-lagen model](het-3-lagen-model.md)
 Uitleg van de samenhang tussen SIM, UGM en BSM.
 
 ## [4. De nieuwe werkwijze]()
